@@ -10,13 +10,15 @@ const HeroContent = () => {
         <>
             <Container fluid className='flex-box'>
                 <div className='text-wrapper flex-box col-box'>
-                    <h1 className='hero-title'>Make<br />remote work</h1>
-                    <p className='hero-text'>
-                        Get your team in sync, no matter your location.<br />
-                        Streamline processes, create team rituals and watch productivity soar.
-                    </p>
-                    <div className='cta-button-wrapper'>
-                        <Button className='hero-button'>Learn More</Button>
+                    <div className='orange'>
+                        <h1 className='hero-title'>Make<br />remote work</h1>
+                        <p className='hero-text'>
+                            Get your team in sync, no matter your location.<br />
+                            Streamline processes, create team rituals and watch productivity soar.
+                        </p>
+                        <div className='cta-button-wrapper'>
+                            <Button className='hero-button'>Learn More</Button>
+                        </div>
                     </div>
                     <div className='clients flex-box'>
                         <div className='partner'>
