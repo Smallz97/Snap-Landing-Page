@@ -35,7 +35,7 @@ function NavigationBar() {
             </Offcanvas.Title>
           </Offcanvas.Header>
           <Offcanvas.Body>
-            <Nav className='me-auto flex-grow-1 pe-3'>
+            <Nav className='mx-3 flex-grow-1 pe-3'>
               <NavDropdown
                 title="Features"
                 id="offcanvasNavbarDropdown-expand-one"
