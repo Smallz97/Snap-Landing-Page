@@ -1,7 +1,7 @@
 {
   "name": "test-v4",
   "version": "0.1.0",
-  "homepage": "https://Smallz97.github.io/Snap",
+  "homepage": "https://Smallz97.github.io/snap",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
